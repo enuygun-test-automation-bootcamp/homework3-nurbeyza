@@ -1,4 +1,4 @@
-#Beyzanur Özer - Ödev3
+# Beyzanur Özer - Ödev3
 
 Yazdığım test kodları  untitled altında java package içerisindedir.
 Browser açıldığında profilin otamatik bağlı gelmesi ödevi OtoUser altındadır.
